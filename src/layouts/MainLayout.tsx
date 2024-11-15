@@ -1,5 +1,5 @@
 import { ReactNode } from "react";
-import { BottomNav, ProfileSidebar } from "../components";
+import { BottomNav } from "../components";
 
 interface MainLayoutProps {
   children: ReactNode;
